@@ -1,9 +1,8 @@
-%%%%%%% DRL Assignment 1 %%%%%%%
 
 close all;
 clear all;
 
-disp('**** DRL Assignment 1 ****'); disp(' ');
+disp('**** Running SARSA and Q-Learning  ****'); disp(' ');
 
 global HEIGHT; HEIGHT = 4;                  %Grid height
 global WIDTH; WIDTH = 12;                   %Grid width
